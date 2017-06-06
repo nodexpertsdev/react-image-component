@@ -1,8 +1,8 @@
 Package.describe({
   name: 'nodexpert:image-component',
   version: '0.0.1',
-  summary: '',
-  git: '',
+  summary: 'React Image Component',
+  git: 'https://github.com/nodexpertsdev/react-image-component',
   documentation: 'README.md'
 });
 
