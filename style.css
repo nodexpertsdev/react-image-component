@@ -1,0 +1,21 @@
+.image-component {
+	border: grey dotted;
+    padding: 10px;
+}
+
+.image {
+    padding: 10px;
+    position: relative;
+}
+.delete-button {
+	position: absolute;
+	cursor: pointer;
+    boxShadow: 0px 0px 7px 1px red;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 25px;
+    height: 20px;
+    margin: auto;
+}
